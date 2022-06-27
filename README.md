@@ -1,4 +1,6 @@
-![MasterHead]([https://media-exp1.licdn.com/dms/image/C5616AQEIi158QGAz9w/profile-displaybackgroundimage-shrink_350_1400/0/1647128334608?e=1661990400&v=beta&t=p12bjgrE9MybV_Y-ZmoKfzhN0PdZGwdUdo9WLA9XThY](https://e7.pngegg.com/pngimages/519/64/png-clipart-black-laptop-computer-illustration-computer-programming-web-development-computer-software-programming-language-theme-coder-electronics-gadget.png))
+
+<img alt="programmer" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-xl.png"/>
+
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
