@@ -12,13 +12,15 @@
 
 - 🌱 I’m currently learning **Full Stack Java Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/skyamit/](https://github.com/skyamit/)
+- 📄 Everything About me - [https://skyamit.github.io/Amit-sResume/](Amit's Resume)
+
+- 👨‍💻 All of my projects are available at [https://github.com/skyamit/](Project Link)
 
 - 💬 Ask me about **Core Java, Data Structure and Algorithm**
 
 - 📫 How to reach me **amit7646014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10QhR0LydlVKhEjf-f-ypsWrrSF5b3nAf/view](https://drive.google.com/file/d/10QhR0LydlVKhEjf-f-ypsWrrSF5b3nAf/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10QhR0LydlVKhEjf-f-ypsWrrSF5b3nAf/view](Latest Resume)
 
 - ⚡ Fun fact **24*7 Coding**
 
