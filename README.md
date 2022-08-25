@@ -1,20 +1,15 @@
-
-<img alt="programmer" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-xl.png"/>
-
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img alt="programmer" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyamit&label=Profile%20views&color=0e75b6&style=flat" alt="skyamit" /> </p>
 
-- 🔭 I’m currently working on **ResumeMaker**
+- 🔭 I’m currently working on **DSA Skills**
 
-- 🌱 I’m currently learning **Full Stack Java Developer**
+- 🌱 I’m currently learning **REST API**
 
 - 📄 Everything About me - <a href="https://skyamit.github.io/Amit-sResume/">Know Me</a>
 
-- 👨‍💻 All of my projects are available at - <a href="https://github.com/skyamit/">Project Link</a>
+- 👨‍💻 All of my projects are available at - <a href="https://github.com/skyamit?tab=repositories">Project Link</a>
 
 - 💬 Ask me about **Core Java, Data Structure and Algorithm**
 
@@ -23,6 +18,12 @@
 - 📄 Know about my experiences - <a href="https://drive.google.com/file/d/10QhR0LydlVKhEjf-f-ypsWrrSF5b3nAf/view">Latest Resume</a>
 
 - ⚡ Fun fact **24*7 Coding**
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/skyamit?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/skyamit/cf-stats/main/output/light_card.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
