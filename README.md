@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **DSA Skills**
 
-- 🌱 I’m currently learning **REST API**
+- 🌱 I’m currently learning **MicroService**
 
 - 📄 Everything About me - <a href="https://skyamit.github.io/Amit-sResume/">Know Me</a>
 
 - 👨‍💻 All of my projects are available at - <a href="https://github.com/skyamit?tab=repositories">Project Link</a>
 
-- 💬 Ask me about **Core Java, Data Structure and Algorithm**
+- 💬 Ask me about **Core Java, Data Structure and Algorithm and Rest API**
 
 - 📫 How to reach me **amit7646014@gmail.com**
 
