@@ -9,6 +9,8 @@
 
 - 📄 Everything About me - <a href="https://skyamit.github.io/Amit-sResume/">Know Me</a>
 
+- 👨‍ My recents Front End projects - <a href="https://musicfake.netlify.app/">Front End Project</a>
+
 - 👨‍💻 All of my projects are available at - <a href="https://github.com/skyamit?tab=repositories">Project Link</a>
 
 - 💬 Ask me about **Core Java, Data Structure and Algorithm and Rest API**
