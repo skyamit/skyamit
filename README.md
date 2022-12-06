@@ -27,7 +27,7 @@
  <h3 align="center">&#128200; Competitive Programming</h3>
 <hr>
 <p align="center">
-<img height="273em" src="https://leetcard.jacoblin.cool/skyamit?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://leetcard.jacoblin.cool/amit-codes?theme=light&font=Karma&ext=contest" />
 </p>
 
 <br>
