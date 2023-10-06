@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences - <a href="https://drive.google.com/file/d/11d6wnY8BIxt65Ts1BqVpp5_vaEV7oS9q/view">Latest Resume</a>
 
-- ⚡ Fun fact **24*7 Coding**
 
 
 <br>
