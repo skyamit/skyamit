@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at - <a href="https://github.com/skyamit?tab=repositories">Project Link</a>
 
-- 💬 Ask me about **Core Java, Data Structure and Algorithm and Rest API**
-
 - 📫 How to reach me **amit7646014@gmail.com**
 
 <br>
